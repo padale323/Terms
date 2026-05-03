@@ -1,7 +1,7 @@
 tosver = 3
 Terms of Service
 Norepinephrine
-Effective Date: February 20th, 2026
+Effective Date: May 3rd, 2026
 1. Acceptance of Terms
 By using Norepinephrine (“the Tool”), you agree to be bound by these Terms of Service. If you do not agree, do not use the Tool.
 
