@@ -1,6 +1,6 @@
-tosver = 2
+tosver = 3
 Terms of Service
-Norepinephrine – Beta
+Norepinephrine
 Effective Date: February 20th, 2026
 1. Acceptance of Terms
 By using Norepinephrine (“the Tool”), you agree to be bound by these Terms of Service. If you do not agree, do not use the Tool.
@@ -42,3 +42,6 @@ You agree to indemnify and hold harmless the creator from any claims, liabilitie
 
 10. Modifications
 These Terms may be updated at any time. Continued use of the Tool constitutes acceptance of any updated Terms.
+
+11. Damage
+If any community made tool causes harm to you, it is not on us ("Norepinephrine"). The lack of requiring a permission when installing a community made tool does not confirm it does not require any of that.
